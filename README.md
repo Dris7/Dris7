@@ -5,6 +5,8 @@
 # 💫 About Me:
 🔭 I’m currently working on expanding my knowledge of data structures and algorithms to improve my problem-solving skills.<br>👯 I’m looking to collaborate on open-source projects related to Android app development or machine learning.<br>🤝 I’m looking for help with learning more about cloud computing and distributed systems.<br>🌱 I’m currently learning React Native and Flutter for cross-platform mobile app development, as well as exploring advanced topics in computer vision and natural language processing.<br>💬 Ask me about my experience working with different programming languages and technologies or my approach to project management and team collaboration.<br>⚡ Fun fact: In my free time, I enjoy practicing calligraphy and learning new languages. I am currently fluent in Arabic, French, and English, and I am working on improving my Spanish proficiency.
 
+# 📂 Portfolio
+- [My personal website](https://drissatkou.me)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/david.lamdon.1) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dris.atk) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/drissatkou) 
