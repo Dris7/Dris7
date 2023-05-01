@@ -1,5 +1,7 @@
 <p align="center">
-  <img style="border-radius: 50%; box-shadow: 0 0 10px #46D4D6; max-width: 350px;width: 40%;min-width: 200px;"  src="https://raw.githubusercontent.com/Dris7/Dris7.github.io/main/images/pro.png" alt="Logo">
+
+  <img src="https://raw.githubusercontent.com/Dris7/Dris7.github.io/main/images/fav.ico" alt="Logo">
+
 </p>
 
 # 💫 About Me:
